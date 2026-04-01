@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://leyabierta.es">
-    <img src="https://raw.githubusercontent.com/leyabierta/leyabierta/main/social-preview.png" alt="Ley Abierta" width="600">
+    <img src="https://raw.githubusercontent.com/leyabierta/leyabierta/main/branding/banner-wide.png" alt="Ley Abierta" width="600">
   </a>
 </p>
 
